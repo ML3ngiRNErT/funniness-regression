@@ -1,3 +1,10 @@
+.vscode
+huggingface_transformers/__pycache__/
+huggingface_transformers/runs/
+huggingface_transformers/tmp_trainer/
+logs/
+results/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
